@@ -1,0 +1,92 @@
+#cau1 .left {
+    width: 400px;
+    float: left;
+    height: 200px;
+    padding: 40px 0;
+    text-align: right;
+} 
+
+#cau1 .right {
+    width: 600px;
+    float: right;
+    height: 200px;
+    padding: 45px 0;
+    text-align: left;
+}
+
+#cau2 .button {
+    background-color: #2F4F4F;
+    color: #fff;
+    font-size: 25px;
+    width: 200px;
+    height: 60px;
+    margin: 30px;
+}
+
+#cau3 .taphuan {
+    position: relative;
+    background: url(../img/cau\ 3.PNG) top center / cover no-repeat;
+    width: 700px;
+    height: 300px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#cau3 .button {
+    background-color: #B22222;
+    color: #fff;
+    font-size: 20px;
+    width: 250px;
+    height: 60px;
+    margin: 30px;
+}
+
+#cau4 .header {
+    background-color: #808080;
+    width: 800px;
+    height: 350px;
+    text-align: center;
+    margin-left: auto; 
+    margin-right: auto;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#cau4 .button {
+    background-color: #87CEFA;
+    color: #fff;
+    font-size: 18px;
+    width: 180px;
+    height: 60px;
+    margin: 25px;
+    border: none; 
+}
+
+#cau5 .left {
+    width: 320px;
+    float: left;
+    height: 400px;
+} 
+
+#cau5 .right {
+    width: 680px;
+    float: right;
+    height: 400px;
+}
+
+#cau5 .button {
+    font-size: 15px;
+    width: 100px;
+    height: 30px;
+}
+
+#cau5 a {
+    text-decoration: none;
+    color: #000;
+}
+
+#cau5 .button:hover {
+    opacity: 1;
+    background-color: #ccc;
+}
